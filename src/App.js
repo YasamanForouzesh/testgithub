@@ -11,7 +11,7 @@ function App() {
      <p>
        I'm Drake, and I'm feeling what Anna said about this Wednesday 😑
      </p>
-    <h1>About Us</h1>
+    <h1>About US</h1>
     <p>
       My Name is Kenny,I have went sky-diving before
     </p>
