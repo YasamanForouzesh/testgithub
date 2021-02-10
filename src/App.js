@@ -28,7 +28,7 @@ function App() {
      <h1>This is the wrong message</h1>
    
     <h1>About Us</h1> 
-    <p>Hello Ilka this is the lab to test Github.</p>
+    <p>Hello Ilka this is Yasaman I wanted just to test Github.</p>
 
     </div>
 
